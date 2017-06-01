@@ -17,9 +17,9 @@ Your program should ask the user to input a temperature and then which conversio
 
 #### Sample session
 
-  Temperature converter
+    Temperature converter
 
-  Enter a temperature: 20
-  Convert to (F)ahrenheit or (C)elsius? F
+    Enter a temperature: 20
+    Convert to (F)ahrenheit or (C)elsius? F
 
-  20 C = 68 F
+    20 C = 68 F
